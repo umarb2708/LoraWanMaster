@@ -1,0 +1,7 @@
+
+
+
+WAN Functions via MQTT
+1. config_add
+	param: address of new LoRa slave
+	
